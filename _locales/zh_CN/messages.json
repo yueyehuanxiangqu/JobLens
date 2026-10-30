@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "JobLens"
+  },
+  "extensionDescription": {
+    "message": "在 LinkedIn 和 Indeed 上进行 AI 专业能力匹配分析，复用简历画像并核查原文证据。"
+  }
+}
